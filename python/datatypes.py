@@ -11,7 +11,6 @@ print(type(y))
 z = 2 + 3j
 print(type(z))
 
-
 #string
 s = "Hello, World!"
 print(type(s))
@@ -22,3 +21,4 @@ print(s[0:5])
 s=s[0:5] + s[7:12]
 print(s)
 print(len(s))
+
